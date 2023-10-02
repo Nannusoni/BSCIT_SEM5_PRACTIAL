@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="registration_servlet_using_JDBC/src/java"/>
+	<classpathentry kind="src" path="Request_Dispatcher_Interface create_Servlet_which_validate_the_password_entered_user/src/java"/>
+	<classpathentry kind="src" path="servlet_for_a_login_page/src/java"/>
+	<classpathentry kind="src" path="simple_calculator_application/src/java"/>
+	<classpathentry kind="output" path="Request_Dispatcher_Interface create_Servlet_which_validate_the_password_entered_user/build/web/WEB-INF/classes"/>
+</classpath>
